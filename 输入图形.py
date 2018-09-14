@@ -9,3 +9,5 @@ while num_height<=height:
         num_width +=1
     print("#")
     num_height +=1
+
+    
